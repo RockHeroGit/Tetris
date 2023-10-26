@@ -1,0 +1,150 @@
+Revision: 0000000000000000000000000000000000000000
+Author:  <>
+Date: 01.01.1970 3:00:00
+Message:
+Working tree changes
+
+0 files changed
+----
+
+Revision: 30ac45041bc4d11a02861710f40c4eabecac37f5
+Author: RockHero666 <77151446+RockHero666@users.noreply.github.com>
+Date: 05.04.2021 15:00:37
+Message:
+Русиф
+
+----
+Modified: Тетрис1/Function.cpp
+Modified: Тетрис1/Variables.h
+
+Revision: a16727f7b5eb2e755d7aef0700ced57de96f90dd
+Author: RockHero666 <77151446+RockHero666@users.noreply.github.com>
+Date: 05.04.2021 14:59:21
+Message:
+Тетрис
+
+Тетрис
+----
+Modified: Тетрис1/Main.cpp
+Modified: муз лиц.txt
+
+Revision: 49719ce31eca2a30e5cd5fcdc6274cf313c8f6de
+Author: RockHero666 <77151446+RockHero666@users.noreply.github.com>
+Date: 05.04.2021 14:51:21
+Message:
+Тетрис
+
+Тетрис самодельный бесплатная лицензия музыки указана в .txt
+----
+Added: .vs/Тетрис1/v16/.suo
+Added: .vs/Тетрис1/v16/Browse.VC.db
+Added: .vs/Тетрис1/v16/ipch/AutoPCH/e563cd1b5b62c175/MAIN.ipch
+Added: Debug/openal32.dll
+Added: Debug/sfml-audio-2.dll
+Added: Debug/sfml-audio-d-2.dll
+Added: Debug/sfml-graphics-2.dll
+Added: Debug/sfml-graphics-d-2.dll
+Added: Debug/sfml-network-2.dll
+Added: Debug/sfml-network-d-2.dll
+Added: Debug/sfml-system-2.dll
+Added: Debug/sfml-system-d-2.dll
+Added: Debug/sfml-window-2.dll
+Added: Debug/sfml-window-d-2.dll
+Added: Debug/Тетрис1.exe
+Added: Debug/Тетрис1.ilk
+Added: Debug/Тетрис1.pdb
+Added: Readme.txt
+Added: Release/Tetris_blocks1.png
+Added: Release/Tetris_fon.png
+Added: Release/arial.ttf
+Added: Release/voxel.ogg
+Added: Release/Тетрис1.exe
+Added: Release/Тетрис1.iobj
+Added: Release/Тетрис1.ipdb
+Added: Release/Тетрис1.pdb
+Added: x64/Debug/lnk{ECD205D8-27AA-433A-A878-65DB17A2118C}.tmp
+Added: x64/Debug/Тетрис1.exe
+Added: x64/Debug/Тетрис1.ilk
+Added: x64/Debug/Тетрис1.pdb
+Added: x64/Release/Tetris_blocks1.png
+Added: x64/Release/Tetris_fon.png
+Added: x64/Release/arial.ttf
+Added: x64/Release/voxel.ogg
+Added: x64/Release/Тетрис1.exe
+Added: x64/Release/Тетрис1.iobj
+Added: x64/Release/Тетрис1.ipdb
+Added: x64/Release/Тетрис1.pdb
+Added: Тетрис1.sln
+Added: Тетрис1/Debug/Function.obj
+Added: Тетрис1/Debug/Main.obj
+Added: Тетрис1/Debug/vc142.idb
+Added: Тетрис1/Debug/vc142.pdb
+Added: Тетрис1/Debug/Тетрис1.exe.recipe
+Added: Тетрис1/Debug/Тетрис1.tlog/CL.command.1.tlog
+Added: Тетрис1/Debug/Тетрис1.tlog/CL.read.1.tlog
+Added: Тетрис1/Debug/Тетрис1.tlog/CL.write.1.tlog
+Added: Тетрис1/Debug/Тетрис1.tlog/link.command.1.tlog
+Added: Тетрис1/Debug/Тетрис1.tlog/link.read.1.tlog
+Added: Тетрис1/Debug/Тетрис1.tlog/link.write.1.tlog
+Added: Тетрис1/Debug/Тетрис1.tlog/Тетрис1.lastbuildstate
+Added: Тетрис1/Forward declaration.h
+Added: Тетрис1/Function.cpp
+Added: Тетрис1/Main.cpp
+Added: Тетрис1/Release/Function.obj
+Added: Тетрис1/Release/Main.obj
+Added: Тетрис1/Release/vc142.pdb
+Added: Тетрис1/Release/Тетрис1.exe.recipe
+Added: Тетрис1/Release/Тетрис1.tlog/CL.command.1.tlog
+Added: Тетрис1/Release/Тетрис1.tlog/CL.read.1.tlog
+Added: Тетрис1/Release/Тетрис1.tlog/CL.write.1.tlog
+Added: Тетрис1/Release/Тетрис1.tlog/link.command.1.tlog
+Added: Тетрис1/Release/Тетрис1.tlog/link.read.1.tlog
+Added: Тетрис1/Release/Тетрис1.tlog/link.write.1.tlog
+Added: Тетрис1/Release/Тетрис1.tlog/Тетрис1.lastbuildstate
+Added: Тетрис1/Release/Тетрис1.tlog/Тетрис1.write.1u.tlog
+Added: Тетрис1/Resource.aps
+Added: Тетрис1/Resource.rc
+Added: Тетрис1/Variables.h
+Added: Тетрис1/bitmap1.bmp
+Added: Тетрис1/resource.h
+Added: Тетрис1/x64/Debug/Function.obj
+Added: Тетрис1/x64/Debug/Main.obj
+Added: Тетрис1/x64/Debug/vc142.idb
+Added: Тетрис1/x64/Debug/vc142.pdb
+Added: Тетрис1/x64/Debug/Тетрис1.exe.recipe
+Added: Тетрис1/x64/Debug/Тетрис1.log
+Added: Тетрис1/x64/Debug/Тетрис1.tlog/CL.command.1.tlog
+Added: Тетрис1/x64/Debug/Тетрис1.tlog/CL.read.1.tlog
+Added: Тетрис1/x64/Debug/Тетрис1.tlog/CL.write.1.tlog
+Added: Тетрис1/x64/Debug/Тетрис1.tlog/link.command.1.tlog
+Added: Тетрис1/x64/Debug/Тетрис1.tlog/link.read.1.tlog
+Added: Тетрис1/x64/Debug/Тетрис1.tlog/link.write.1.tlog
+Added: Тетрис1/x64/Debug/Тетрис1.tlog/Тетрис1.lastbuildstate
+Added: Тетрис1/x64/Release/Function.obj
+Added: Тетрис1/x64/Release/Main.obj
+Added: Тетрис1/x64/Release/vc142.pdb
+Added: Тетрис1/x64/Release/Тетрис1.exe.recipe
+Added: Тетрис1/x64/Release/Тетрис1.tlog/CL.command.1.tlog
+Added: Тетрис1/x64/Release/Тетрис1.tlog/CL.read.1.tlog
+Added: Тетрис1/x64/Release/Тетрис1.tlog/CL.write.1.tlog
+Added: Тетрис1/x64/Release/Тетрис1.tlog/link.command.1.tlog
+Added: Тетрис1/x64/Release/Тетрис1.tlog/link.read.1.tlog
+Added: Тетрис1/x64/Release/Тетрис1.tlog/link.write.1.tlog
+Added: Тетрис1/x64/Release/Тетрис1.tlog/Тетрис1.lastbuildstate
+Added: Тетрис1/x64/Release/Тетрис1.tlog/Тетрис1.write.1u.tlog
+Added: Тетрис1/Тетрис1.APS
+Added: Тетрис1/Тетрис1.rc
+Added: Тетрис1/Тетрис1.vcxproj
+Added: Тетрис1/Тетрис1.vcxproj.filters
+Added: Тетрис1/Тетрис1.vcxproj.user
+Added: муз лиц.txt
+
+Revision: e88886f79960a01a12f23ddbef658230aab96291
+Author: RockHero666 <77151446+RockHero666@users.noreply.github.com>
+Date: 05.04.2021 12:18:01
+Message:
+Initial commit
+
+----
+Added: .gitattributes
+
